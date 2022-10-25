@@ -22,3 +22,6 @@ a=int(input('a sonini kiriting: '))
 b=int(input('b sonini kiriting: '))
 d=(a+b)/2
 print(f'orta arifmetigi={d} ga)
+
+
+
