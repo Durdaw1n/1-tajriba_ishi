@@ -1,3 +1,24 @@
 
 1-tajriba 1-misol
+
+
+a=int(input('a sonini kiriting: '))
+b=int(input('b sonini kiriting: '))
+a>=0
+b>=0
+c=a+b
+d=a-b
+v=a*b
+g=a/b
+print(f'yigindi={c} ayirma={d} kopaytma={v}
+ bolinma={g})
+
+
+
 1-tajriba 2-misol
+
+
+a=int(input('a sonini kiriting: '))
+b=int(input('b sonini kiriting: '))
+d=(a+b)/2
+print(f'orta arifmetigi={d} ga)
